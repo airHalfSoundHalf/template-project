@@ -1,0 +1,9 @@
+{
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "ADD:AD",
+  "short_name": "애드에드"
+}
